@@ -1,0 +1,53 @@
+body{
+  color: rgb(0,0,0);
+  background-color: #f2eee5;
+  font-size: 15px;
+ 
+}
+/*Hi, This is Lyn!*/
+p{font-size: 15px;
+}
+h3{color:rgb(0,0,0);
+	font-size: 30px;
+	font-family:'Courgette', cursive;
+	text-align: center;}
+h1{
+	color:rgb(0,0,0);
+	font-size: 60px;
+	font-family:'Dancing Script', cursive;
+	text-align: center;
+
+}
+
+h2{
+	color:(0,0,0);
+	font-size: 30px;
+	font-weight:lighter;
+	font-family:'Bitter', serif;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color:green;
+}
+div{background-color: floralwhite;
+	padding: 40px;
+	border-radius: 15px;
+	margin: 50px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+.container{
+	width: 1000px;
+	margin: 40px auto;
+}
+.card-white{ 
+font-size: 20px;
+padding: 40px;
+border: 1px solid lightgrey; 
+box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+border-radius: 4px;
+}
